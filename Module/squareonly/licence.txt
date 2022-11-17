@@ -1,0 +1,4 @@
+The module is open souce no restrictions
+licenced by - pypi.org
+
+created by sudhanshu yadav
